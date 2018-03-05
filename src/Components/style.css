@@ -1,0 +1,117 @@
+.navbar-inner {
+  border-radius: 0 0 0 0;
+}
+#calculator-wrapper {
+font-size: 42px;
+}
+
+.numberFields {
+  margin: 0;
+  width: 300px;
+  font-size:0;
+  overflow: auto;
+  float: left;
+  margin-left: 70px;
+}
+.header {
+  margin-bottom: 5px;
+}
+
+h2{
+  text-align: center;
+  color: black;
+}
+.header input {
+  width: 395px;
+  height: 40px;
+  border: 2px solid black!;
+  background-color: black;
+  text-align: right;
+  font-size: 45px;
+  color: white;
+}
+.numberFields input {
+  background-color: #696969;
+  border: 1px solid black;
+  font-size: 30px;
+  color:white;
+  width: 80px !important;
+  height: 80px;
+  margin-left: 15px;
+  margin-top: 15px;
+  border-radius: 40px;
+}
+
+.operations {
+  width: 40px;
+  font-size: 0;
+  display: inline-block;
+}
+
+.operations input {
+  background-color: darkblue !important;
+  border: 1px solid black;
+  width: 80px;
+  height: 80px;
+  margin-top: 15px;
+  border-radius: 40px;
+  font-size: 30px;
+  color:white;
+}
+
+.sum input {
+  background-color: red !important;
+  border: 1px solid black !important;
+  width: 80% !important;
+  height: 50px !important;
+  margin-bottom: 15px;
+  margin-left: 50px;
+}
+
+#calculator-wrapper .uneditable-input {
+height: 42px;
+font-size: 42px;
+line-height: 35px;
+width: 100%;
+text-align: right;
+border: 2px solid black;
+background-color: black;
+text-align: right;
+font-size: 45px;
+color: white;
+}
+
+#calculator-wrapper .span1 {
+height: 42px;
+font-size: 42px;
+}
+#calculator-wrapper .span1 .visible-phone {
+line-height: 25px;
+}
+#calculator-wrapper .span1 .hidden-phone {
+line-height: 42px;
+}
+
+
+.hero-unit{
+  background: none !important;
+}
+
+.row-fluid input {
+  background-color: #696969;
+  border: 1px solid black;
+  font-size: 30px;
+  color:white;
+  width: 80px;
+  height: 80px;
+  margin-left: 15px;
+  margin-top: 15px;
+  border-radius: 40px;
+}
+.well{
+  margin-left: 11% !important;
+}
+
+.calc-btn{
+  background-color: black !important;
+}
